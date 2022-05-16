@@ -1,0 +1,43 @@
+CSS Selector
+
+syntax
+selector{
+	property:value;
+}
+div,p{
+	property:value;  CSS Rule
+}
+
+1. ID Selector         # 
+2. Class Selector      .
+3. Element Selector    elementName
+4. Attribute Selector  [name="value"]
+5. Grouping Selector   ,
+
+href = HyperLink Reference
+
+href = "address"
+
+Types of Address
+	1. Relative   . = current Directory
+	2. Absolute   http/https
+rel  = Relation
+
+
+
+5 Step to upload your code in github
+1. git init
+2. git remote add origin <repo_link>
+3. git add .   (Stagging)
+4. git commit -m "message"   (Commiting)
+5. git push origin <branch_name>
+
+
+
+Your COde ----> Github -----> Deplopyment Service --->. URL
+
+Deployment 
+		1. Github Page
+				Disdvantage Slow Build  2-5 min
+		2. Netlify
+				Advantage Super Fast
