@@ -1,0 +1,10 @@
+/*
+selector{
+	property:value;
+}
+
+*/
+div,p{
+    color:red;
+
+}
